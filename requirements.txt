@@ -4,4 +4,3 @@ opencv-python-headless
 numpy
 requests
 tensorflow==2.10.0
-pillow
