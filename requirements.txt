@@ -3,5 +3,5 @@ deepface
 opencv-python-headless
 numpy
 requests
-tensorflow-cpu
+tensorflow==2.10.0
 pillow
