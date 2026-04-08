@@ -1,5 +1,6 @@
 streamlit
-deepface
-opencv-python
-requests
+opencv-python-headless
 numpy
+requests
+deepface==0.0.79
+tensorflow-cpu
