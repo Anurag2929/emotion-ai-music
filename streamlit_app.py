@@ -116,7 +116,7 @@ if image:
     file_bytes = np.asarray(bytearray(image.read()), dtype=np.uint8)
     frame = cv2.imdecode(file_bytes, 1)
 
-    st.image(frame)
+    st.image(frame, use_container_width=True)
 
     emotion = detect_emotion(frame)
 
