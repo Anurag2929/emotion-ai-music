@@ -1,8 +1,7 @@
-setuptools
-wheel
-streamlit==1.25.0
+streamlit==1.22.0
 deepface
 opencv-python-headless
 numpy==1.23.5
 requests
 tensorflow==2.10.0
+protobuf==3.19.6
